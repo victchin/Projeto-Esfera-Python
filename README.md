@@ -1,4 +1,4 @@
-# Projeto-esfera-python
+# Projeto - Esfera
 ### Projeto utilizando POO(Programação Orientada a Objetos) no Python
 **Objeto:** Esfera 
 
